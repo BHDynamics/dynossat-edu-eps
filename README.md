@@ -25,4 +25,4 @@ Hardware in this repository is licenced under **CERN OHL v1.2**.
 
 ## Documentation
 
-Available soon!
+Available in this repo's [Wiki](https://github.com/BHDynamics/dynossat-edu-eps/wiki).
